@@ -1,0 +1,23 @@
+{
+  "name": "personalized-productivity-dashboard",
+  "version": "1.0.0",
+  "description": "A Personalized Productivity dashboard built using Node.js , Express.js , EJS , and Restful APIs . Includes features like to-do list , notes ,weather updates , news headlines , motivational quotes , and a pomodoro timer - all in one clean and customizable interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush502-cell/Personalized-Productivity-Dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush502-cell/Personalized-Productivity-Dashboard/issues"
+  },
+  "homepage": "https://github.com/Ayush502-cell/Personalized-Productivity-Dashboard#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
